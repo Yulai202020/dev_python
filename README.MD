@@ -13,6 +13,12 @@
 
 [socket messager](https://github.com/Yulai202020/socket_messager)
 
+[contactapi](https://github.com/Yulai202020/contactapi)
+
+[others network app](https://github.com/Yulai202020/apps)
+
+[ts and python apps](https://github.com/Yulai202020/web-projects)
+
 # grafics
 [geometry](https://github.com/Yulai202020/geometry)
 
